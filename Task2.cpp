@@ -4,7 +4,7 @@
 using namespace std;
 
 int main(){
-	cout << "Reg Id:2602633\nName:Masab Ali"<<endl;	
+	cout << "Reg Id:******\nName:Masab Ali"<<endl;	
 	
 	string name = "Ali";
 	cout << name<<endl;
