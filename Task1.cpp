@@ -7,7 +7,7 @@ int main()
 	This is a mult line comment*/
 
 	cout << "Hello, World!\n\n";
-	cout << "Reg Id:2602633\nName:Masab Ali\n\n";
+	cout << "Reg Id:******\nName:\n\n";
 
 	// Using all the escape sequences
 	cout << "This is first line\nThis will appear in new line\t a tab space is added \"This is in douuble qouts\" and \'This is in single cout\' and now i added a backslash\\ \n";
